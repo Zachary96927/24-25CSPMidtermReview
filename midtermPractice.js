@@ -3,6 +3,7 @@ var secondNumber = [2, 3, 3, 4, 5];
 var numProblems = firstNumber.length;
 
 function start() {
+
     println("Welcome to my Math Quiz!");
     var type = readLine("Please select (M)ultipliction or (D)ivision:");
     // Call function to print problems
